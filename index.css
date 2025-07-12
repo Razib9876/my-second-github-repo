@@ -1,0 +1,10 @@
+
+.header{
+    text-align: center;
+}
+.div{
+    border: 10px solid rgb(128, 128, 128);
+    border-radius: 30px;
+    margin: 20px 20% 20px 20%;
+    padding: 20px;
+}
