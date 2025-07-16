@@ -6,6 +6,24 @@
 .div{
     border: 10px solid rgb(128, 128, 128);
     border-radius: 30px;
-    margin: 20px 20% 20px 20%;
+    margin: 20px 10% 20px 10%;
     padding: 20px;
+}
+.fieldsetone{
+   border: 10px solid rgb(128, 128, 128);
+    border-radius: 30px;
+    margin: 20px 10% 20px 10%;
+    padding: 20px;
+}
+
+ table{
+    border-collapse: collapse;
+ }   
+td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th{
+    border-collapse: collapse;
+    border: 1px solid black;
 }
